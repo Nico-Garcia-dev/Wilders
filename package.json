@@ -1,0 +1,24 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "exercice Workshop du 25/03/25",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nico-Garcia-dev/Wilders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nico-Garcia-dev/Wilders/issues"
+  },
+  "homepage": "https://github.com/Nico-Garcia-dev/Wilders#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
